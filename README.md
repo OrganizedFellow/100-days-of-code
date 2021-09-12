@@ -1,57 +1,176 @@
 # I've joined the #100DaysOfCode Challenge
 
-## Contents
+Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked the original repo 👍
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+> [What is this challenge?](https://www.google.com/search?client=firefox-b-1-d&q=what+is+100daysofcode+challenge)
+>
+> The 100 Days of Code is a coding challenge created by **[Alexander Kallaway](https://github.com/Kallaway) to encourage people to learn new coding skills**. The challenge follows one simple rule: Code for at least an hour each day for 100 consecutive days.
 
-## Translations
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)
+---
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
+## My Personal Goals:
 
-## If you've decided to join:
+> -   Make coding a habit every single day.
+> -   Research and learn best coding practices.
+> -   Apply what I learn every day and build and maintain and update my projects.
+> -   Learn Vue3.
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3.  **Code minimum an hour every day for the next 100 days.**
-4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+## Desired Outcome:
 
-## ⚡ Interested in meaningfully changing your life & getting the results you want?
+> -   I have been hand-coding websites in plain HTML/CSS for over 10 years, with very little undertanding of JavaScript.
+> -   I will have a greater working knowledge of JavaScript and its best practices.
+> -   Use what I have learned and create more stunning interactive websites and webapps for my clients.
 
-I publish a newsletter called [Do the Opposite](https://dotheopposite.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
+---
 
-The themes covered are:
-- **Habit Change**. Learn how to successfully acquire good habits and how to quit bad ones.
-- **Book Recommendations & Takeaways**. Get awesome book recommendations and golden nuggets of wisdom extracted from these books so you can put them into action right away!
-- **Personal Finance**. Even tiny change you make about how you manage your money will bring mind-boggling results over time. Find out what these changes are!
-- **Starting a Business**. Whether you're a wanna-be indie maker or want to become the next Elon Musk, you will find some great resources here!
-- **Overcoming Creative Blocks**. Together we explore how to beat the Resistance and finish that project you've been day-dreaming about.
-- **Minimalism** Living with less has lots of benefits: reduced stress, less cleaning, better finances and a lot more!
-- **Other topics**. Psychology, learning to code, alternative lifestyles and more.
+## LOG
 
-Join the Do the Opposite Community!
+---
 
-💌 [SUBSCRIBE to the newsletter and start changing your life!](https://dotheopposite.substack.com/)
+| Day | Links                | Tech Used             | Status  |
+| --- | -------------------- | --------------------- | ------- |
+| 1   | [Day 1:](#day-1)     | JS, Vue3, TailwindCSS | ongoing |
+| 2   | [Day 2:](#day-2)     |                       |         |
+| 3   | [Day 3:](#day-3)     |                       |         |
+| 4   | [Day 4:](#day-4)     |                       |         |
+| 5   | [Day 5:](#day-5)     |                       |         |
+| 6   | [Day 6:](#day-6)     |                       |         |
+| 7   | [Day 7:](#day-7)     |                       |         |
+| 8   | [Day 8:](#day-8)     |                       |         |
+| 9   | [Day 9:](#day-9)     |                       |         |
+| 10  | [Day 10:](#day-10)   |                       |         |
+| 11  | [Day 11:](#day-11)   |                       |         |
+| 12  | [Day 12:](#day-12)   |                       |         |
+| 13  | [Day 13:](#day-13)   |                       |         |
+| 14  | [Day 14:](#day-14)   |                       |         |
+| 15  | [Day 15:](#day-15)   |                       |         |
+| 16  | [Day 16:](#day-16)   |                       |         |
+| 17  | [Day 17:](#day-17)   |                       |         |
+| 18  | [Day 18:](#day-18)   |                       |         |
+| 19  | [Day 19:](#day-19)   |                       |         |
+| 20  | [Day 20:](#day-20)   |                       |         |
+| 21  | [Day 21:](#day-21)   |                       |         |
+| 22  | [Day 22:](#day-22)   |                       |         |
+| 23  | [Day 23:](#day-23)   |                       |         |
+| 24  | [Day 24:](#day-24)   |                       |         |
+| 25  | [Day 25:](#day-25)   |                       |         |
+| 26  | [Day 26:](#day-26)   |                       |         |
+| 27  | [Day 27:](#day-27)   |                       |         |
+| 28  | [Day 28:](#day-28)   |                       |         |
+| 29  | [Day 29:](#day-29)   |                       |         |
+| 30  | [Day 30:](#day-30)   |                       |         |
+| 31  | [Day 31:](#day-31)   |                       |         |
+| 32  | [Day 32:](#day-32)   |                       |         |
+| 33  | [Day 33:](#day-33)   |                       |         |
+| 34  | [Day 34:](#day-34)   |                       |         |
+| 35  | [Day 35:](#day-35)   |                       |         |
+| 36  | [Day 36:](#day-36)   |                       |         |
+| 37  | [Day 37:](#day-37)   |                       |         |
+| 38  | [Day 38:](#day-38)   |                       |         |
+| 39  | [Day 39:](#day-39)   |                       |         |
+| 40  | [Day 40:](#day-40)   |                       |         |
+| 41  | [Day 41:](#day-41)   |                       |         |
+| 42  | [Day 42:](#day-42)   |                       |         |
+| 43  | [Day 43:](#day-43)   |                       |         |
+| 44  | [Day 44:](#day-44)   |                       |         |
+| 45  | [Day 45:](#day-45)   |                       |         |
+| 46  | [Day 46:](#day-46)   |                       |         |
+| 47  | [Day 47:](#day-47)   |                       |         |
+| 48  | [Day 48:](#day-48)   |                       |         |
+| 49  | [Day 49:](#day-49)   |                       |         |
+| 50  | [Day 50:](#day-50)   |                       |         |
+| 51  | [Day 51:](#day-51)   |                       |         |
+| 52  | [Day 52:](#day-52)   |                       |         |
+| 53  | [Day 53:](#day-53)   |                       |         |
+| 54  | [Day 54:](#day-54)   |                       |         |
+| 55  | [Day 55:](#day-55)   |                       |         |
+| 56  | [Day 56:](#day-56)   |                       |         |
+| 57  | [Day 57:](#day-57)   |                       |         |
+| 58  | [Day 58:](#day-58)   |                       |         |
+| 59  | [Day 59:](#day-59)   |                       |         |
+| 60  | [Day 60:](#day-60)   |                       |         |
+| 61  | [Day 61:](#day-61)   |                       |         |
+| 62  | [Day 62:](#day-62)   |                       |         |
+| 63  | [Day 63:](#day-63)   |                       |         |
+| 64  | [Day 64:](#day-64)   |                       |         |
+| 65  | [Day 65:](#day-65)   |                       |         |
+| 66  | [Day 66:](#day-66)   |                       |         |
+| 67  | [Day 67:](#day-67)   |                       |         |
+| 68  | [Day 68:](#day-68)   |                       |         |
+| 69  | [Day 69:](#day-69)   |                       |         |
+| 70  | [Day 70:](#day-70)   |                       |         |
+| 71  | [Day 71:](#day-71)   |                       |         |
+| 72  | [Day 72:](#day-72)   |                       |         |
+| 73  | [Day 73:](#day-73)   |                       |         |
+| 74  | [Day 74:](#day-74)   |                       |         |
+| 75  | [Day 75:](#day-75)   |                       |         |
+| 76  | [Day 76:](#day-76)   |                       |         |
+| 77  | [Day 77:](#day-77)   |                       |         |
+| 78  | [Day 78:](#day-78)   |                       |         |
+| 79  | [Day 79:](#day-79)   |                       |         |
+| 80  | [Day 80:](#day-80)   |                       |         |
+| 81  | [Day 81:](#day-81)   |                       |         |
+| 82  | [Day 82:](#day-82)   |                       |         |
+| 83  | [Day 83:](#day-83)   |                       |         |
+| 84  | [Day 84:](#day-84)   |                       |         |
+| 85  | [Day 85:](#day-85)   |                       |         |
+| 86  | [Day 86:](#day-86)   |                       |         |
+| 87  | [Day 87:](#day-87)   |                       |         |
+| 88  | [Day 88:](#day-88)   |                       |         |
+| 89  | [Day 89:](#day-89)   |                       |         |
+| 90  | [Day 90:](#day-90)   |                       |         |
+| 91  | [Day 91:](#day-91)   |                       |         |
+| 92  | [Day 92:](#day-92)   |                       |         |
+| 93  | [Day 93:](#day-93)   |                       |         |
+| 94  | [Day 94:](#day-94)   |                       |         |
+| 95  | [Day 95:](#day-95)   |                       |         |
+| 96  | [Day 96:](#day-96)   |                       |         |
+| 97  | [Day 97:](#day-97)   |                       |         |
+| 98  | [Day 98:](#day-98)   |                       |         |
+| 99  | [Day 99:](#day-99)   |                       |         |
+| 100 | [Day 100:](#day-100) |                       |         |
+
+---
+
+### Day 1:
+
+Saturday, September 11, 2021
+
+**Todays Progress:**
+
+-   Learned about TailwindCSS and got it working in my Vue3 boilerplate.
+-   Started creating my own layout using TailwindCSS.
+-   Created my own components.
+
+**Link to work:**
+
+-   [My First Tailwind + Vue3 Project](http://jamjamvue.surge.sh/), hosted on surge.sh.
+
+**What I learned:**
+
+-   I stumbled across [surge.sh](https://surge.sh/) years ago but never had a reason to use it. Installed it and quickly & effortlessly uploaded this project. I will most likely use it in the future.
+-   At first I though that the utility-based method was cumbersome and would result in bloated HTML, but I definitely see the advantages and potential of this framework.
+
+[⬆️](#log)
+
+---
+
+This is the Log code format:
+
+    ### Day X:
+
+    Day, Month xx, 2021
+
+    **Todays Progress:**
+    - qwerty
+    - qwerty
+    - qwerty
+
+    **Link to Work:**
+    - [qwerty](URL)
+
+    **What I Lerned:**
+    - qwerty
 
 
-## Want to change other habits?
-
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
-
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
-
-## Note
-
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+    [⬆️](#log)
