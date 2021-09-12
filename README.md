@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked the original repo 👍
+Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked the original repo 👍 ![The this is ME!](./assets/selfie.github.png "this is ME!")
 
 > [What is this challenge?](https://www.google.com/search?client=firefox-b-1-d&q=what+is+100daysofcode+challenge)
 >
@@ -159,7 +159,7 @@ Saturday, September 11, 2021
 **What I learned:**
 
 -   I stumbled across [surge.sh](https://surge.sh/) years ago but never had a reason to use it. Installed it and quickly & effortlessly uploaded this project. I will most likely use it in the future.
--   At first I though that the utility-based method was cumbersome and would result in bloated HTML, but I definitely see the advantages and potential of this framework.
+-   At first I though that the utility-based methods used in TailwindCSS were cumbersome and would result in bloated HTML, but I definitely see the advantages and potential of this framework.
 
 [⬆️ back to the top ](#log)
 
