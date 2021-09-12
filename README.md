@@ -23,6 +23,16 @@ Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked th
 
 ---
 
+## Current Status:
+
+> I am currently following several online bootcamps.
+>
+> -   The first one is called [The Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) by [Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/#instructor-1). I am about 32% through the course. I expect to complete this course by the end of October. Links will provided to working examples below in the Log
+>
+> -   The second one is on https://netninja.dev/. As a refresher, I decided to take his course 'HTML & CSS Crash Course' and also 'Modern JavaScript - From Novice to Ninja'. I have received my Certificates of Completion. I understand these certificates are not truly applicable in the Real World, but I am delighted none the less.
+
+---
+
 ## LOG
 
 ---
@@ -151,11 +161,13 @@ Saturday, September 11, 2021
 -   I stumbled across [surge.sh](https://surge.sh/) years ago but never had a reason to use it. Installed it and quickly & effortlessly uploaded this project. I will most likely use it in the future.
 -   At first I though that the utility-based method was cumbersome and would result in bloated HTML, but I definitely see the advantages and potential of this framework.
 
-[⬆️](#log)
+[⬆️ back to the top ](#log)
 
 ---
 
 This is the Log code format:
+
+> # KEEP THIS HERE FOR FUTURE REFERENCE
 
     ### Day X:
 
@@ -172,5 +184,4 @@ This is the Log code format:
     **What I Lerned:**
     - qwerty
 
-
-    [⬆️](#log)
+    [⬆️ back to the top ](#log)
