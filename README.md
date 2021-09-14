@@ -169,15 +169,19 @@ Saturday, September 11, 2021
 
 Monday, September 13, 2021 @ 10:17:59 PM
 
+> I've been a Github user for years, but never really had any reason or desire to `push` any of my projects up. That changed today 😉
+
 **Todays Progress:**
 
--   Every Linux user tinkers and customizes their desktop environment. I've been using Pop!\_OS 21.04 for some time now and decided it was about time I had a safe place for my dotfiles as well.
--   Also decided that I should back up all the settings and extensions in VS Code. So I have a repo for that also.
+-   Every Linux user tinkers and customizes their desktop environment. I've been using Pop!\_OS 21.04 for some time now and decided it was about time I had a safe place for my dotfiles as well. Link below.
+-   Also decided that I should back up all the settings and extensions in VS Code. So I have a repo for that also. Link below.
+-   Being a Reddit user, one generally needs to share a screenshot when words can't explain well enough. I searched for the simplest way possible to take a screenshot and share in a post. I found this amazingly well written bash script that gets the job done.
 
 **Link to Work:**
 
--   [dotfiles](https://github.com/OrganizedFellow/dotfiles)
--   [vs-code-settings.json](https://github.com/OrganizedFellow/VS-Code-settings.json)
+-   [My dotfiles](https://github.com/OrganizedFellow/dotfiles)
+-   [My VS-Code-settings.json](https://github.com/OrganizedFellow/VS-Code-settings.json)
+-   [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot)
 
 **What I Learned:**
 
