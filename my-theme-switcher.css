@@ -1,0 +1,57 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.theme-light {
+    --color-primary: hsl(0, 0%, 86%);
+    --color-background: rgb(251, 251, 254);
+    --color-accent: #fd6f53;
+    --color-font: hsl(0, 0%, 0%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.theme-dark {
+    --color-primary: hsl(214, 100%, 44%);
+    --color-background: hsl(188, 17%, 17%);
+    --color-accent: hsl(188, 86%, 49%);
+    --color-font: hsl(0, 0%, 100%);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    letter-spacing: 2px;
+}
+
+.container {
+    background: var(--color-background);
+    bottom: 0;
+    color: var(--color-font);
+    left: 0;
+    margin: 0 auto;
+    padding: 1em;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 800px;
+}
+
+.container h1 {
+    color: var(--color-font);
+}
+
+.container button {
+    background: var(--color-primary);
+    border-radius: 5px;
+    border: 0;
+    color: var(--color-font);
+    margin: 0.75em;
+    padding: 10px 20px;
+}
