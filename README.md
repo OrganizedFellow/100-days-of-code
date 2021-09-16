@@ -202,7 +202,7 @@ Monday, September 13, 2021 @ 10:17:59 PM
 
 **Todays Progress:**
 
--   I wanted to make a simple Theme Switcher for a project. I did't really know enough JavaScript to make it happen, but I was able to successfully get it done. It even implements `localStorage` to store the visitors choice.
+-   I wanted to make a simple Theme Switcher for a project. I did't really know enough JavaScript to make it happen, but I was able to successfully get it done. I even implemented `localStorage` to store the visitors choice.
 -   I finally registered for an account on CodePen and JsFiddle.
 
 **Link to Work:**
@@ -214,6 +214,7 @@ Monday, September 13, 2021 @ 10:17:59 PM
 
 **What I Learned:**
 
+-   This is my first time playing with CSS Variables, localStorage, and HSL for colors.
 -   The [MDN: Web Storge API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API) page shows plenty of examples to get started.
 -   StackOverFlow is an invaluable resource!!!
 
