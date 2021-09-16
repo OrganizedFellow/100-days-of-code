@@ -1,6 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
-Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked the original repo 👍 ![The this is ME!](./assets/selfie.github.png "this is ME!")
+Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked the original repo 👍
+
+![So This Is Me!](./assets/selfie.github.200x200.png "So This Is Me!")
 
 > [What is this challenge?](https://www.google.com/search?client=firefox-b-1-d&q=what+is+100daysofcode+challenge)
 >
@@ -27,7 +29,7 @@ Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked th
 
 > I am currently following several online bootcamps.
 >
-> -   The first one is called [The Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) by [Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/#instructor-1). I am about 32% through the course. I expect to complete this course by the end of October. Links will provided to working examples below in the Log
+> -   The first one is called [The Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) by [Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/#instructor-1). I am about 32% through the course. I expect to complete this course by the end of October. Links will be provided to working examples below in the Log.
 >
 > -   The second one is on https://netninja.dev/. As a refresher, I decided to take his course 'HTML & CSS Crash Course' and also 'Modern JavaScript - From Novice to Ninja'. I have received my Certificates of Completion. I understand these certificates are not truly applicable in the Real World, but I am delighted none the less.
 
@@ -41,7 +43,7 @@ Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked th
 | ---- | -------------------- | --------------------- | ------- |
 | 1    | [Day 1:](#day-1)     | JS, Vue3, TailwindCSS | ongoing |
 | 2    | [Day 2:](#day-2)     | bash, git             | done    |
-| 3    | [Day 3:](#day-3)     |                       |         |
+| 3    | [Day 3:](#day-3)     | CSS, JS,CodePen       | done    |
 | 4    | [Day 4:](#day-4)     |                       |         |
 | 5    | [Day 5:](#day-5)     |                       |         |
 | 6    | [Day 6:](#day-6)     |                       |         |
@@ -149,7 +151,7 @@ Saturday, September 11, 2021
 **Todays Progress:**
 
 -   Learned about TailwindCSS and got it working in my Vue3 boilerplate.
--   Started creating my own layout using TailwindCSS.
+-   Started creating my own layout using [TailwindCSS](https://tailwindcss.com/).
 -   Created my own components.
 
 **Link to Work:**
@@ -159,7 +161,7 @@ Saturday, September 11, 2021
 **What I Learned:**
 
 -   I stumbled across [surge.sh](https://surge.sh/) years ago but never had a reason to use it. Installed it and quickly & effortlessly uploaded this project. I will most likely use it in the future.
--   At first I though that the utility-based methods used in TailwindCSS were cumbersome and would result in bloated HTML, but I definitely see the advantages and potential of this framework.
+-   At first I though that the utility-based methods used in TailwindCSS were cumbersome and would result in bloated HTML, but I definitely see the advantages and potential of this framework. I much prefer this to the popular [Bootstrap](https://getbootstrap.com/).
 
 [⬆️ back to the top ](#log)
 
@@ -173,7 +175,7 @@ Monday, September 13, 2021 @ 10:17:59 PM
 
 **Todays Progress:**
 
--   Every Linux user tinkers and customizes their desktop environment. I've been using Pop!\_OS 21.04 for some time now and decided it was about time I had a safe place for my dotfiles as well. Link below.
+-   Every Linux user tinkers and customizes their desktop environment. I've been using [Pop!\_OS 21.04](https://pop.system76.com/) for several years now and decided it was about time I had a safe place for my dotfiles as well. Link below.
 -   Also decided that I should back up all the settings and extensions in VS Code. So I have a repo for that also. Link below.
 -   Being a Reddit user, one generally needs to share a screenshot when words can't explain well enough. I searched for the simplest way possible to take a screenshot and share in a post. I found this amazingly well written bash script that gets the job done.
 
@@ -196,21 +198,24 @@ Monday, September 13, 2021 @ 10:17:59 PM
 
 ### Day 3:
 
-# (Upcoming project: my friend Krista is in need of a remodel of her current website.)
+# Thursday, September 16, 2021 @ 11:39:59 AM
 
 **Todays Progress:**
 
--   qwerty
--   qwerty
--   qwerty
+-   I wanted to make a simple Theme Switcher for a project. I did't really know enough JavaScript to make it happen, but I was able to successfully get it done. It even implements `localStorage` to store the visitors choice.
+-   I finally registered for an account on CodePen and JsFiddle.
 
 **Link to Work:**
 
--   [qwerty](URL)
+> While they are both identical, I do plan on testing other methods using `:root[theme='dark']`.
+
+-   CodePen [My Theme Switcher](https://codepen.io/oh_jaimito/pen/oNwoRqP)
+-   JsFiddle [My Theme Switcher](https://jsfiddle.net/oh_jaimito/xzamL24e/185/)
 
 **What I Learned:**
 
--   qwerty
+-   The [MDN: Web Storge API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API) page shows plenty of examples to get started.
+-   StackOverFlow is an invaluable resource!!!
 
 [⬆️ back to the top ](#log)
 
