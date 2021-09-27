@@ -9,11 +9,14 @@
     <link rel="stylesheet" href="my-theme-switcher.css">
 </head>
 
-<body>
-    <div class="container">
-        <button id="switch" onclick="toggleTheme()">Switch</button>
+<body class="dark">
+    <div id="container">
+        <button id="themeButton" onclick="toggleTheme()">Switch</button>
         <h1>My Theme Switcher</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, aperiam. Iusto dignissimos dolores deleniti error molestiae officia commodi? Nihil velit vero nulla reprehenderit ut totam?</p>
+
+        <hr>
+        <button onclick="clearStorage()">Clear Theme</button>
     </div>
 
     <script src="my-theme-switcher.js"></script>
@@ -21,3 +24,6 @@
 </body>
 
 </html>
+<!-- 
+    source: https://fireship.io/snippets/light-dark-mode-theme-css/
+ -->

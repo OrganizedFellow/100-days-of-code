@@ -1,3 +1,43 @@
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color: #333;
+        --background: #ececec;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --text-color: #1f1f1f;
+        --background: #000000;
+    }
+}
+
+:root {
+    --super-cool-text-color: #f00;
+}
+
+.light {
+    --text-color: #b6b6b6;
+    --background: #ececec;
+}
+
+.blues {
+    --text-color: #ffbd33;
+    --background: #5880a0;
+}
+
+body {
+    color: var(--text-color);
+    background: var(--background);
+}
+#container {
+    margin: 0 auto;
+    width: 800px;
+}
+
+/* ==================================================================================== */
+
+/* 
 html {
     box-sizing: border-box;
 }
@@ -55,3 +95,4 @@ body {
     margin: 0.75em;
     padding: 10px 20px;
 }
+ */
