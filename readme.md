@@ -45,7 +45,7 @@ Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked th
 | 2    | [Day 2:](#day-2)     | bash, git                      | done    |
 | 3    | [Day 3:](#day-3)     | CSS, JS,CodePen                | done    |
 | 4    | [Day 4:](#day-4)     | Alacritty, tmux, vim, starship | done    |
-| 5    | [Day 5:](#day-5)     |                                |         |
+| 5    | [Day 5:](#day-5)     | Gridsome, NuxtJS               | ongoing |
 | 6    | [Day 6:](#day-6)     |                                |         |
 | 7    | [Day 7:](#day-7)     |                                |         |
 | 8    | [Day 8:](#day-8)     |                                |         |
@@ -236,6 +236,29 @@ Monday, September 27, 2021 @ 05:00:41 PM
 **What I Learned:**
 
 -   I spend probably around 80% of my time in the terminal. While I do use VS Code exclusively for my web development projects, I use the terminal for managing files and folders, I run git in every project, install/update/upgrade my system. I have been making more of an effort to use VIM for quick file edits and am really liking it so far. Although it would never replace my workflow in VS Code.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 5:
+
+Thursday, September 30, 2021 @ 07:31:22 PM
+
+**Todays Progress:**
+
+-   I'm always learning more about Vue and it's amazing features. Today I came across this article on LogRocket => [Gridsome vs. Nuxt.js: Comparison and tutorial with examples](https://blog.logrocket.com/gridsome-vs-nuxt-js-comparison-and-tutorial-with-examples/).
+
+**Link to Work:**
+
+-   NONE: everything was done on `localhost`.
+-   If I should publish either Blog platform, I will update the Link to Work section.
+
+**What I Learned:**
+
+-   So I followed through and made two simple blogs on `localhost` and learned the differences between the two popular frameworks.
+-   By the end I was/am SOLD on NuxtJS framework, as this example already includes TailwindCSS. Plus Nuxt gave me tons more options at the beginning while setting up.
+-   Gridsome requires some knowledge of GraphQL, which I'm not opposed to. I will come to that later. I just really liked the out-of-the-box experience with Nuxt instead.
 
 [⬆️ back to the top ](#log)
 
