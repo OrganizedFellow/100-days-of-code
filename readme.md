@@ -46,7 +46,7 @@ Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked th
 | 3    | [Day 3:](#day-3)     | CSS, JS,CodePen                | done    |
 | 4    | [Day 4:](#day-4)     | Alacritty, tmux, vim, starship | done    |
 | 5    | [Day 5:](#day-5)     | Gridsome, NuxtJS               | ongoing |
-| 6    | [Day 6:](#day-6)     |                                |         |
+| 6    | [Day 6:](#day-6)     | JS, CSS                        | done    |
 | 7    | [Day 7:](#day-7)     |                                |         |
 | 8    | [Day 8:](#day-8)     |                                |         |
 | 9    | [Day 9:](#day-9)     |                                |         |
@@ -264,23 +264,49 @@ Thursday, September 30, 2021 @ 07:31:22 PM
 
 ---
 
+### Day 6:
+
+Monday, October 4, 2021 @ 06:51:57 PM
+
+**Todays Progress:**
+
+-   I revisited my previous project, "My Theme Switcher" and gave it some added functionality.
+-   I've never seen a theme switcher that also changed the favicon. I was able to successfully implement that today.
+
+**Link to Work:**
+
+-   [source code](https://github.com/OrganizedFellow/my-theme-switcher)
+-   [live site](https://organizedfellow.github.io/my-theme-switcher/)
+-   I also shared my code and repo on [dev.to](https://dev.to/organizedfellow/my-theme-switcher-with-live-favicon-update-2pdh), a community for developers. I'm hesitant to share it on Reddit, though.
+
+**What I Learned:**
+
+-   I continue to enjoy learning about `localStorage` and reading/writing values to/from it.
+-   I learned how to combine two different functions in one `onClick` function.
+
+[⬆️ back to the top ](#log)
+
+---
+
 This is the Log code format:
 
 > # KEEP THIS HERE FOR FUTURE REFERENCE
 
-    ### Day X:
+```
+### Day X:
 
-    Day, Month xx, 2021
+Day, Month xx, 2021
 
-    **Todays Progress:**
-    - qwerty
-    - qwerty
-    - qwerty
+**Todays Progress:**
+- qwerty
+- qwerty
+- qwerty
 
-    **Link to Work:**
-    - [qwerty](URL)
+**Link to Work:**
+- [qwerty](URL)
 
-    **What I Learned:**
-    - qwerty
+**What I Learned:**
+- qwerty
 
-    [⬆️ back to the top ](#log)
+[⬆️ back to the top ](#log)
+```
