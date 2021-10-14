@@ -47,7 +47,7 @@ Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked th
 | 4    | [Day 4:](#day-4)     | Alacritty, tmux, vim, starship | done    |
 | 5    | [Day 5:](#day-5)     | Gridsome, NuxtJS               | ongoing |
 | 6    | [Day 6:](#day-6)     | JS, CSS                        | done    |
-| 7    | [Day 7:](#day-7)     |                                |         |
+| 7    | [Day 7:](#day-7)     | JS, NuxtJS                     |         |
 | 8    | [Day 8:](#day-8)     |                                |         |
 | 9    | [Day 9:](#day-9)     |                                |         |
 | 10   | [Day 10:](#day-10)   |                                |         |
@@ -283,6 +283,26 @@ Monday, October 4, 2021 @ 06:51:57 PM
 
 -   I continue to enjoy learning about `localStorage` and reading/writing values to/from it.
 -   I learned how to combine two different functions in one `onClick` function.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 7:
+
+Thursday, October 14, 2021 @ 01:36:35 AM
+
+**Todays Progress:**
+- Tons of progress this past week.
+- Really taking advantage of the free tutorials on NuxtJS.
+- On localhost I have created a new BLOG with Nuxt.
+
+**Link to Work:**
+- [My New Nuxt App](https://github.com/jjaimealeman/my-new-nuxt-app)
+
+**What I Learned:**
+- Nuxt continues to prove to be the most solid framework I have looked in to.
+- For now all the content is served by `*.md` files, but soon I will incorporate either Contentful or Strapi. I am still doing my research.
 
 [⬆️ back to the top ](#log)
 
