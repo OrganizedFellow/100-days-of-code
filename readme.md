@@ -12,16 +12,16 @@ Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked th
 
 ## My Personal Goals:
 
-> -   Make coding a habit every single day.
-> -   Research and learn best coding practices.
-> -   Apply what I learn every day and build and maintain and update my projects.
-> -   Learn Vue3.
+> - Make coding a habit every single day.
+> - Research and learn best coding practices.
+> - Apply what I learn every day and build and maintain and update my projects.
+> - Learn Vue3.
 
 ## Desired Outcome:
 
-> -   I have been hand-coding websites in plain HTML/CSS for over 10 years, with very little undertanding of JavaScript.
-> -   I will have a greater working knowledge of JavaScript and its best practices.
-> -   Use what I have learned and create more stunning interactive websites and webapps for my clients.
+> - I have been hand-coding websites in plain HTML/CSS for over 10 years, with very little undertanding of JavaScript.
+> - I will have a greater working knowledge of JavaScript and its best practices.
+> - Use what I have learned and create more stunning interactive websites and webapps for my clients.
 
 ---
 
@@ -29,9 +29,9 @@ Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked th
 
 > I am currently following several online bootcamps.
 >
-> -   The first one is called [The Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) by [Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/#instructor-1). I am about 32% through the course. I expect to complete this course by the end of October. Links will be provided to working examples below in the Log.
+> - The first one is called [The Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) by [Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/#instructor-1). I am about 32% through the course. I expect to complete this course by the end of October. Links will be provided to working examples below in the Log.
 >
-> -   The second one is on https://netninja.dev/. As a refresher, I decided to take his course 'HTML & CSS Crash Course' and also 'Modern JavaScript - From Novice to Ninja'. I have received my Certificates of Completion. I understand these certificates are not truly applicable in the Real World, but I am delighted none the less.
+> - The second one is on https://netninja.dev/. As a refresher, I decided to take his course 'HTML & CSS Crash Course' and also 'Modern JavaScript - From Novice to Ninja'. I have received my Certificates of Completion. I understand these certificates are not truly applicable in the Real World, but I am delighted none the less.
 
 ---
 
@@ -47,9 +47,9 @@ Ok, so today is Sunday, September 12, 2021 @ 11:20:37 AM and I finally forked th
 | 4    | [Day 4:](#day-4)     | Alacritty, tmux, vim, starship | done    |
 | 5    | [Day 5:](#day-5)     | Gridsome, NuxtJS               | ongoing |
 | 6    | [Day 6:](#day-6)     | JS, CSS                        | done    |
-| 7    | [Day 7:](#day-7)     | JS, NuxtJS                     |         |
-| 8    | [Day 8:](#day-8)     |                                |         |
-| 9    | [Day 9:](#day-9)     |                                |         |
+| 7    | [Day 7:](#day-7)     | JS, NuxtJS                     | done    |
+| 8    | [Day 8:](#day-8)     | bash, jq, wget, curl, API      | ongoing |
+| 9    | [Day 9:](#day-9)     | bash, scrot, imagemagick       |         |
 | 10   | [Day 10:](#day-10)   |                                |         |
 | 11   | [Day 11:](#day-11)   |                                |         |
 | 12   | [Day 12:](#day-12)   |                                |         |
@@ -150,18 +150,18 @@ Saturday, September 11, 2021
 
 **Todays Progress:**
 
--   Learned about TailwindCSS and got it working in my Vue3 boilerplate.
--   Started creating my own layout using [TailwindCSS](https://tailwindcss.com/).
--   Created my own components.
+- Learned about TailwindCSS and got it working in my Vue3 boilerplate.
+- Started creating my own layout using [TailwindCSS](https://tailwindcss.com/).
+- Created my own components.
 
 **Link to Work:**
 
--   [My First Tailwind + Vue3 Project](http://jamjamvue.surge.sh/), hosted on surge.sh.
+- [My First Tailwind + Vue3 Project](http://jamjamvue.surge.sh/), hosted on surge.sh.
 
 **What I Learned:**
 
--   I stumbled across [surge.sh](https://surge.sh/) years ago but never had a reason to use it. Installed it and quickly & effortlessly uploaded this project. I will most likely use it in the future.
--   At first I though that the utility-based methods used in TailwindCSS were cumbersome and would result in bloated HTML, but I definitely see the advantages and potential of this framework. I much prefer this to the popular [Bootstrap](https://getbootstrap.com/).
+- I stumbled across [surge.sh](https://surge.sh/) years ago but never had a reason to use it. Installed it and quickly & effortlessly uploaded this project. I will most likely use it in the future.
+- At first I though that the utility-based methods used in TailwindCSS were cumbersome and would result in bloated HTML, but I definitely see the advantages and potential of this framework. I much prefer this to the popular [Bootstrap](https://getbootstrap.com/).
 
 [⬆️ back to the top ](#log)
 
@@ -175,20 +175,20 @@ Monday, September 13, 2021 @ 10:17:59 PM
 
 **Todays Progress:**
 
--   Every Linux user tinkers and customizes their desktop environment. I've been using [Pop!\_OS 21.04](https://pop.system76.com/) for several years now and decided it was about time I had a safe place for my dotfiles as well. Link below.
--   Also decided that I should back up all the settings and extensions in VS Code. So I have a repo for that also. Link below.
--   Being a Reddit user, one generally needs to share a screenshot when words can't explain well enough. I searched for the simplest way possible to take a screenshot and share in a post. I found this amazingly well written bash script that gets the job done.
+- Every Linux user tinkers and customizes their desktop environment. I've been using [Pop!\_OS 21.04](https://pop.system76.com/) for several years now and decided it was about time I had a safe place for my dotfiles as well. Link below.
+- Also decided that I should back up all the settings and extensions in VS Code. So I have a repo for that also. Link below.
+- Being a Reddit user, one generally needs to share a screenshot when words can't explain well enough. I searched for the simplest way possible to take a screenshot and share in a post. I found this amazingly well written bash script that gets the job done.
 
 **Link to Work:**
 
--   [My dotfiles](https://github.com/OrganizedFellow/dotfiles)
--   [My VS-Code-settings.json](https://github.com/OrganizedFellow/VS-Code-settings.json)
--   [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot)
+- [My dotfiles](https://github.com/OrganizedFellow/dotfiles)
+- [My VS-Code-settings.json](https://github.com/OrganizedFellow/VS-Code-settings.json)
+- [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot)
 
 **What I Learned:**
 
--   If I should ever have to reinstall because of some fatal error, or if my laptop were stolen, or damaged beyond repair - I can rest assured that my hard work can easily be restored.
-    > I have not tested the reinstallation process, and hopefully I never will. But I do plan on someday doing so for peace of mind.
+- If I should ever have to reinstall because of some fatal error, or if my laptop were stolen, or damaged beyond repair - I can rest assured that my hard work can easily be restored.
+  > I have not tested the reinstallation process, and hopefully I never will. But I do plan on someday doing so for peace of mind.
 
 ![My Current Setup](https://i.imgur.com/lOS8U2u.png "My Current Setup")
 
@@ -202,21 +202,21 @@ Monday, September 13, 2021 @ 10:17:59 PM
 
 **Todays Progress:**
 
--   I wanted to make a simple Theme Switcher for a project. I did't really know enough JavaScript to make it happen, but I was able to successfully get it done. I even implemented `localStorage` to store the visitors choice.
--   I finally registered for an account on CodePen and JsFiddle.
+- I wanted to make a simple Theme Switcher for a project. I did't really know enough JavaScript to make it happen, but I was able to successfully get it done. I even implemented `localStorage` to store the visitors choice.
+- I finally registered for an account on CodePen and JsFiddle.
 
 **Link to Work:**
 
 > While they are both identical, I do plan on testing other methods using `:root[theme='dark']`.
 
--   CodePen [My Theme Switcher](https://codepen.io/oh_jaimito/pen/oNwoRqP)
--   JsFiddle [My Theme Switcher](https://jsfiddle.net/oh_jaimito/xzamL24e/185/)
+- CodePen [My Theme Switcher](https://codepen.io/oh_jaimito/pen/oNwoRqP)
+- JsFiddle [My Theme Switcher](https://jsfiddle.net/oh_jaimito/xzamL24e/185/)
 
 **What I Learned:**
 
--   This is my first time playing with CSS Variables, localStorage, and HSL for colors.
--   The [MDN: Web Storge API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API) page shows plenty of examples to get started.
--   StackOverFlow is an invaluable resource!!!
+- This is my first time playing with CSS Variables, localStorage, and HSL for colors.
+- The [MDN: Web Storge API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API) page shows plenty of examples to get started.
+- StackOverFlow is an invaluable resource!!!
 
 [⬆️ back to the top ](#log)
 
@@ -228,14 +228,14 @@ Monday, September 27, 2021 @ 05:00:41 PM
 
 **Todays Progress:**
 
--   I have continued to code, just failed to document my progress 😢
--   While browsing [/r/linux](https://www.reddit.com/r/linux) I learned of a terminal emulator called [Alacritty](https://github.com/alacritty/alacritty). I watched some YouTube videos talking about its features and I was impressed! Previously I had been using Tilux, and before that was Terminator for years. So I installed Alacritty and have been quite happy after tinkering around with its settings.
--   While researching Alcritty, I came across the mention of tmux, which is widely used by many Linux users. So I ended up installing that. I don't know why I never used it before! It's very useful since I frequently have multiple terminal windows open. Now I can have them side by side with minimal space used.
--   And thennn, I came across [starship](https://starship.rs/), a beautiful shell prompt, and it works nicely with my already configured zsh setup.
+- I have continued to code, just failed to document my progress 😢
+- While browsing [/r/linux](https://www.reddit.com/r/linux) I learned of a terminal emulator called [Alacritty](https://github.com/alacritty/alacritty). I watched some YouTube videos talking about its features and I was impressed! Previously I had been using Tilux, and before that was Terminator for years. So I installed Alacritty and have been quite happy after tinkering around with its settings.
+- While researching Alcritty, I came across the mention of tmux, which is widely used by many Linux users. So I ended up installing that. I don't know why I never used it before! It's very useful since I frequently have multiple terminal windows open. Now I can have them side by side with minimal space used.
+- And thennn, I came across [starship](https://starship.rs/), a beautiful shell prompt, and it works nicely with my already configured zsh setup.
 
 **What I Learned:**
 
--   I spend probably around 80% of my time in the terminal. While I do use VS Code exclusively for my web development projects, I use the terminal for managing files and folders, I run git in every project, install/update/upgrade my system. I have been making more of an effort to use VIM for quick file edits and am really liking it so far. Although it would never replace my workflow in VS Code.
+- I spend probably around 80% of my time in the terminal. While I do use VS Code exclusively for my web development projects, I use the terminal for managing files and folders, I run git in every project, install/update/upgrade my system. I have been making more of an effort to use VIM for quick file edits and am really liking it so far. Although it would never replace my workflow in VS Code.
 
 [⬆️ back to the top ](#log)
 
@@ -247,18 +247,18 @@ Thursday, September 30, 2021 @ 07:31:22 PM
 
 **Todays Progress:**
 
--   I'm always learning more about Vue and it's amazing features. Today I came across this article on LogRocket => [Gridsome vs. Nuxt.js: Comparison and tutorial with examples](https://blog.logrocket.com/gridsome-vs-nuxt-js-comparison-and-tutorial-with-examples/).
+- I'm always learning more about Vue and it's amazing features. Today I came across this article on LogRocket => [Gridsome vs. Nuxt.js: Comparison and tutorial with examples](https://blog.logrocket.com/gridsome-vs-nuxt-js-comparison-and-tutorial-with-examples/).
 
 **Link to Work:**
 
--   NONE: everything was done on `localhost`.
--   If I should publish either Blog platform, I will update the Link to Work section.
+- NONE: everything was done on `localhost`.
+- If I should publish either Blog platform, I will update the Link to Work section.
 
 **What I Learned:**
 
--   So I followed through and made two simple blogs on `localhost` and learned the differences between the two popular frameworks.
--   By the end I was/am SOLD on NuxtJS framework, as this example already includes TailwindCSS. Plus Nuxt gave me tons more options at the beginning while setting up.
--   Gridsome requires some knowledge of GraphQL, which I'm not opposed to. I will come to that later. I just really liked the out-of-the-box experience with Nuxt instead.
+- So I followed through and made two simple blogs on `localhost` and learned the differences between the two popular frameworks.
+- By the end I was/am SOLD on NuxtJS framework, as this example already includes TailwindCSS. Plus Nuxt gave me tons more options at the beginning while setting up.
+- Gridsome requires some knowledge of GraphQL, which I'm not opposed to. I will come to that later. I just really liked the out-of-the-box experience with Nuxt instead.
 
 [⬆️ back to the top ](#log)
 
@@ -270,19 +270,19 @@ Monday, October 4, 2021 @ 06:51:57 PM
 
 **Todays Progress:**
 
--   I revisited my previous project, "My Theme Switcher" and gave it some added functionality.
--   I've never seen a theme switcher that also changed the favicon. I was able to successfully implement that today.
+- I revisited my previous project, "My Theme Switcher" and gave it some added functionality.
+- I've never seen a theme switcher that also changed the favicon. I was able to successfully implement that today.
 
 **Link to Work:**
 
--   [source code](https://github.com/OrganizedFellow/my-theme-switcher)
--   [live site](https://organizedfellow.github.io/my-theme-switcher/)
--   I also shared my code and repo on [dev.to](https://dev.to/organizedfellow/my-theme-switcher-with-live-favicon-update-2pdh), a community for developers. I'm hesitant to share it on Reddit, though.
+- [source code](https://github.com/OrganizedFellow/my-theme-switcher)
+- [live site](https://organizedfellow.github.io/my-theme-switcher/)
+- I also shared my code and repo on [dev.to](https://dev.to/organizedfellow/my-theme-switcher-with-live-favicon-update-2pdh), a community for developers. I'm hesitant to share it on Reddit, though.
 
 **What I Learned:**
 
--   I continue to enjoy learning about `localStorage` and reading/writing values to/from it.
--   I learned how to combine two different functions in one `onClick` function.
+- I continue to enjoy learning about `localStorage` and reading/writing values to/from it.
+- I learned how to combine two different functions in one `onClick` function.
 
 [⬆️ back to the top ](#log)
 
@@ -293,16 +293,64 @@ Monday, October 4, 2021 @ 06:51:57 PM
 Thursday, October 14, 2021 @ 01:36:35 AM
 
 **Todays Progress:**
+
 - Tons of progress this past week.
 - Really taking advantage of the free tutorials on NuxtJS.
 - On localhost I have created a new BLOG with Nuxt.
 
 **Link to Work:**
+
 - [My New Nuxt App](https://github.com/jjaimealeman/my-new-nuxt-app)
 
 **What I Learned:**
+
 - Nuxt continues to prove to be the most solid framework I have looked in to.
 - For now all the content is served by `*.md` files, but soon I will incorporate either Contentful or Strapi. I am still doing my research.
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 8:
+
+Sunday, October 17, 2021 @ 08:23:16 PM
+
+**Todays Progress:**
+
+- On a currently project I realized it was cumbersone and time-consuming to go to Unsplash, find a decent photo, download, copy to `/images` direcctory, resize, and type in the path in my HTML.
+- I wanted a simpler solution.
+- So I came up with a `bash` script that does just that.
+- **Link to Work:**
+
+- [NOT AVAILABLE YET](URL)
+
+**What I Learned:**
+
+- Learned about `jq` - a command line tool for parsing json files.
+- Learned how to generate a random hash using `$(cat /proc/sys/kernel/random/uuid | sed 's/[-]//g' | head -c 10;echo)`. I'm sure there are other (better) methods but this works for me.
+- My next version of this will use the API provided by https://picsum.photos/v2/list
+
+[⬆️ back to the top ](#log)
+
+---
+
+### Day 9:
+
+Saturday, October 23, 2021 @ 06:07:36 PM
+
+**Todays Progress:**
+
+- I recently came across a default configuration in Pop OS 21.01 that I wanted to change. I asked for help on [Reddit](https://www.reddit.com/r/pop_os/comments/qdzj3h/how_can_i_change_the_default_screenshot_filename/) but came up empty handed.
+- I decided to write my own script to complete me task and it came out working well 😃
+
+**Link to Work:**
+
+- [myscrot.sh](https://gist.github.com/jjaimealeman/209741ae4dda4f5ae9483a7773dc5ee7)
+
+**What I Learned:**
+
+- I have used `scrot` and `imagemagick` before but never took advantage of their options.
+- I run `scrot` to generate a screenshot of a size I needed and then create a border using `imagemagick` so when I share to reddit, facebook, or twitter - the screenshot stands out against their background.
 
 [⬆️ back to the top ](#log)
 
